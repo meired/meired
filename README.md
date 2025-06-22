@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 🧙‍♀️ Software Developer & Frontend Architect hoping to try out new things and tech.<br/>
 🎓 Studied [Software Engineering](https://www.intec.edu.do/en/oferta-academica/grado/ingenieria/item/ingenieria-de-software) at [INTEC](https://www.intec.edu.do/), Dom. Rep.<br/>
+🤔 Enjoy learning skills, currently looking to expand into projects I haven't try yet.<br/>
+🎲 Love anime, cozy video games & JRPGs, and sweets.<br/>
 <!-- 💻 I’m currently working on ...<br/>
 📓 Constantly learning, looking to expand<br/>-->
 <!-- 🎲 Fun fact: ...<br/>-->
@@ -46,6 +48,13 @@ Here are some ideas to get you started:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -56,11 +65,18 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![WCAG](https://img.shields.io/badge/WCAG-%23015A69.svg?style=for-the-badge&logo=WCAG&logoColor=white) 
 
-
 ## 📊 GitHub Info
 
-![Jeimy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meired&show_icons=true&theme=transparent)
+<!--![Jeimy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meired&show_icons=true&theme=transparent&count_private=true&hide_border=true) -->
+![Jeimy's GitHub Contributions Summary](https://nirzak-streak-stats.vercel.app/?user=meired&theme=transparent&hide_border=true)
 
 ## 📎 My Repos Code
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meired&layout=compact&langs_count=8&hide_progress=true&theme=transparent)
+![Jeimy Repo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meired&layout=compact&langs_count=8&hide_progress=true&theme=transparent&count_private=true&hide_border=true)
+
+## 🏆 GitHub Trophies
+
+![Jeimy's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=meired&theme=onedark&no-frame=true&no-bg=true&margin-w=8&rank=SSS,SS,S,AAA,AA,A,B)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeimy-rojas/) 

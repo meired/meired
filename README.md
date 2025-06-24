@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 🧙‍♀️ Software Developer & Frontend Architect hoping to try out new things and tech.<br/>
 🎓 Studied [Software Engineering](https://www.intec.edu.do/en/oferta-academica/grado/ingenieria/item/ingenieria-de-software) at [INTEC](https://www.intec.edu.do/), Dom. Rep.<br/>
-🤔 Enjoy learning skills, currently looking to expand into projects I haven't try yet.<br/>
-🎲 Love anime, cozy video games & JRPGs, and sweets.<br/>
+🤔 Enjoy learning skills, currently looking to expand into projects I haven't tried yet.<br/>
+🎲 Love anime, cozy video games & RPGs, and sweets.<br/>
 <!-- 💻 I’m currently working on ...<br/>
 📓 Constantly learning, looking to expand<br/>-->
 <!-- 🎲 Fun fact: ...<br/>-->
